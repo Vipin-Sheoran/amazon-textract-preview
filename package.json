@@ -1,6 +1,6 @@
 {
   "name": "amazon-textract-preview",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library to display Extracted text from Amazon Textract",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
